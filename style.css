@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: large;
+    width: 100%;
+    margin-top: 0px;
+}
+
+#status, #number_of_objects, #start {
+    font-size: medium;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:white;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+  background-color:thistle;
+}
